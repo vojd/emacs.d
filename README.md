@@ -1,3 +1,13 @@
+Personal Emacs settings based on the Live Coding Emacs setup for Overtone displayed below.
+Note: I am not the author of this. All credits to Sam Aron [https://github.com/overtone/overtone]
+Original README kept as reference
+
+
+
+
+
+=====
+
 <img src="https://github.com/downloads/overtone/live-coding-emacs/improcess-logo-2.png" alt="Fuzzy Improcess Logo" title="Improcess" align="right" />
 
 ## Live Coding Emacs setup for Overtone
@@ -53,5 +63,3 @@ Here's a video showing the config in use: [Quick Intro to Live Programming with 
 ### Feedback
 
 I'm very happy to hear any feedback regarding this config. The idea is for you to use it to get started and give you a platform to start editing it and turning it into something personal.
-
-
