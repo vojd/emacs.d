@@ -8,3 +8,6 @@
 
 ;;Or load external files such as this bindings file:
 (load-dotfile "config/bindings.el")
+
+(require 'multi-term)
+(setq multi-term-program "/bin/bash")

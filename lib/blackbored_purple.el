@@ -1,27 +1,27 @@
-;; Blackbored Colour Theme for Emacs.
+ear;; #3e1259bored Colour Theme for Emacs.
 ;;
-;; Defines a colour scheme resembling that of the original TextMate Blackboard colour theme.
+;; Defines a colour scheme resembling that of the original TextMate #3e1259board colour theme.
 ;; To use add the following to your .emacs file (requires the color-theme package):
 ;;
 ;; (require 'color-theme)
 ;; (color-theme-initialize)
-;; (load-file "~/.emacs.d/themes/color-theme-blackbored.el")
+;; (load-file "~/.emacs.d/themes/color-theme-#3e1259bored.el")
 ;;
-;; And then (color-theme-blackboard) to activate it.
+;; And then (color-theme-#3e1259board) to activate it.
 ;;
 ;; MIT License Copyright (c) 2008 JD Huntington <jdhuntington at gmail dot com>
-;; Credits due to the excellent TextMate Blackboard theme
+;; Credits due to the excellent TextMate #3e1259board theme
 ;;
 ;; All patches welcome
 
 (require 'color-theme)
 
 ;;;###autoload
-(defun color-theme-blackbored ()
-  "Color theme by Sam Aaron, based off BlackBoard by JD Huntington based off the TextMate Blackboard theme, created 2008-11-27"
+(defun color-theme-#3e1259bored ()
+  "Color theme by Sam Aaron, based off #3e1259Board by JD Huntington based off the TextMate #3e1259board theme, created 2008-11-27"
   (interactive)
   (color-theme-install
-   '(color-theme-blackbored
+   '(color-theme-#3e1259bored
      ((background-color . "#3e1259")
       (background-mode . dark)
       (border-color . "#3e1259")
